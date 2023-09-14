@@ -26,7 +26,7 @@ O objetivo é criar uma aplicação web capaz de identificar os candidatos ideai
 | Nome           | Função       | GitHub                                    |
 |----------------|--------------|-------------------------------------------|
 | Frederico Rabelo | Scrum Master | [fredrbo](https://github.com/fredrbo)    |
-| Ana Silva | Product Owner | [AnaChristina](https://github.com/AnaChristina)    |
+| Ana Christina Silva | Product Owner | [AnaChristina](https://github.com/AnaChristina)    |
 | Lucas Rafael Andrade Barroso | Desenvolvedor | [lucaszrafael](https://github.com/lucaszrafael)    |
 | Debora Faria | Desenvolvedor | [deborafaria01](https://github.com/deborafaria01)    |
 | Carlos Henrique Benício Costa | Desenvolvedor | [Carlos-Henrique39](https://github.com/Carlos-Henrique39)    |
@@ -38,11 +38,18 @@ O objetivo é criar uma aplicação web capaz de identificar os candidatos ideai
 
 ##### [Back-end](https://github.com/Api6-IA/RecrutaTech-FrontEnd)
 
+##### [Raspagem de dados](https://github.com/PowerTech5API/Iacit_Frontend_App)
+
+
 <!-- ## Backlog -->
 
 ## Documentação
 
-##### [Documento do Projeto](https://github.com/INSERIR_LINK)
+#### Backlog
+<img src="images/backlog.png">
+
+
+##### [Documento do Projeto](https://github.com/INSERIR_LINK) PENDENTE
 
 ## Tecnologias Utilizadas
 
