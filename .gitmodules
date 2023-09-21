@@ -1,0 +1,12 @@
+[submodule "RecrutaTech-FrontEnd"]
+	path = RecrutaTech-FrontEnd
+	url = https://github.com/CodeSquirrel-API/RecrutaTech-FrontEnd
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/CodeSquirrel-API/RecrutaTech-FrontEnd
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/CodeSquirrel-API/RecrutaTech-BackEnd
+[submodule "DataScraper"]
+	path = DataScraper
+	url = https://github.com/CodeSquirrel-API/Scraping
