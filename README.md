@@ -1,61 +1,57 @@
 # RecrutaTech
 
-1. [Quem somos nós](#quem-somos-nós)
-2. [Sobre a Pro4Tech](#sobre-a-pro4tech)
-3. [Cronograma](#cronograma)
-4. [Colaboradores](#colaboradores)
-5. [Repositórios do projeto](#repositórios-do-projeto)
-6. [Documentação](#documentação)
-7. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+1. [Who We Are](#who-we-are)
+2. [About Pro4Tech](#about-pro4tech)
+3. [Schedule](#schedule)
+4. [Contributors](#contributors)
+5. [Project Repositories](#project-repositories)
+6. [Documentation](#documentation)
+7. [Used Technologies](#used-technologies)
 
-##  Quem somos nós
+##  Who We Are
 
-Somos um grupo de estudantes do 6º Semestre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Tecnológica Prof. Jessen Vidal . Nosso objetivo principal é enfrentar desafios reais no âmbito do Projeto Integrador, desenvolvendo soluções inovadoras.
+We are a group of 6th-semester students in the Analysis and Systems Development program at Prof. Jessen Vidal Technological College. Our main goal is to tackle real challenges within the scope of the Integrative Project, developing innovative solutions.
 
-## Sobre a Pro4Tech
+## About Pro4Tech
 
-A Pro4Tech é uma empresa especializada em Digital Transformation, dedicada a capacitar negócios para o sucesso na era digital. A empresa combina sua expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, juntamente com sua capacidade de desenvolver estratégias personalizadas para cada negócio. O objetivo da Pro4Tech é ampliar a eficiência operacional, aprimorar a experiência do cliente e impulsionar o crescimento. Trabalhando em conjunto, a empresa e seus clientes constroem o futuro digital.
+Pro4Tech is a company specialized in Digital Transformation, dedicated to empowering businesses for success in the digital age. The company combines its expertise in emerging technologies such as artificial intelligence, data analysis, IoT, and cloud, along with its ability to develop customized strategies for each business. Pro4Tech's aim is to enhance operational efficiency, improve customer experience, and drive growth. Working together, the company and its clients build the digital future.
 
-## Objetivo
-O objetivo é criar uma aplicação web capaz de identificar os candidatos ideais para vagas específicas, empregando Inteligência Artificial para avaliar o perfil com base nos critérios de Conhecimento, Habilidades e Atitudes (CHA) necessários para a posição.
+## Objective
+The objective is to create a web application capable of identifying ideal candidates for specific positions, employing Artificial Intelligence to assess the profile based on the Knowledge, Skills, and Attitudes (KSA) criteria necessary for the role.
 
-## Cronograma
+## Schedule
 <img src="images/infografico.jpg">
 
-## Colaboradores    
-| Nome           | Função       | GitHub                                    |
+## Contributors    
+| Name           | Position       | GitHub                                    |
 |----------------|--------------|-------------------------------------------|
 | Frederico Rabelo | Scrum Master | [fredrbo](https://github.com/fredrbo)    |
 | Ana Christina Silva | Product Owner | [AnaChristina](https://github.com/AnaChristina)    |
-| Lucas Rafael Andrade Barroso | Desenvolvedor | [lucaszrafael](https://github.com/lucaszrafael)    |
-| Debora Faria | Desenvolvedor | [deborafaria01](https://github.com/deborafaria01)    |
-| Carlos Henrique Benício Costa | Desenvolvedor | [Carlos-Henrique39](https://github.com/Carlos-Henrique39)    |
-| Lucca Santiago Almeida| Desenvolvedor | [LuccaSantiagoDev](https://github.com/LuccaSantiagoDev)    |
+| Lucas Rafael Andrade Barroso | Developer | [lucaszrafael](https://github.com/lucaszrafael)    |
+| Debora Faria | Developer | [deborafaria01](https://github.com/deborafaria01)    |
+| Carlos Henrique Benício Costa | Developer | [Carlos-Henrique39](https://github.com/Carlos-Henrique39)    |
+| Lucca Santiago Almeida| Developer | [LuccaSantiagoDev](https://github.com/LuccaSantiagoDev)    |
 
-## Repositórios do projeto
+## Project Repositories
 
-##### [Front-end](https://github.com/PowerTech5API/Iacit_Frontend_App)
+##### [Front-end](https://github.com/CodeSquirrel-API/RecrutaTech-FrontEnd)
 
-##### [Back-end](https://github.com/Api6-IA/RecrutaTech-FrontEnd)
+##### [Back-end](https://github.com/CodeSquirrel-API/RecrutaTech-BackEnd)
 
-##### [Raspagem de dados](https://github.com/PowerTech5API/Iacit_Frontend_App)
+##### [Web Scraping](https://github.com/CodeSquirrel-API/Scraping)
 
-
-<!-- ## Backlog -->
-
-## Documentação
+## Documentation
 
 #### Backlog
 <img src="images/backlog.png">
 
+<!-- ##### [Documentation](https://github.com/INSERIR_LINK) -->
 
-##### [Documento do Projeto](https://github.com/INSERIR_LINK) PENDENTE
+## Used Technologies
 
-## Tecnologias Utilizadas
-
-- **Banco de Dados:** PostgreSQL
+- **DataBase:** PostgreSQL
 - **Back-end:** Java, SpringBoot
 - **Front-end:** HTML, CSS, TypeScript, VUE.js, Figma
-- **Inteligência Arificial:** Python, INSERIR LIBS
+- **Artificial Intelligence:** Python
 - **Web Scraping:** Python, Beautiful Soup, Selenium
 
