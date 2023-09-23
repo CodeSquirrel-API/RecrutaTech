@@ -16,7 +16,8 @@ The objective is to create a web application capable of identifying ideal candid
 
 ## 🏁 Project
 
-**RecrutaTech** is an innovative web platform that offers essential features to streamline candidate recruitment. Its key features include:
+**RecrutaTech** is an innovative web platform that offers essential features to streamline candidate recruitment. At the end of development, the platform should have the following
+features:
 
 * **Secure Login:** With a secure login system and multi-factor authentication, we ensure the protection of your company's data.
 
