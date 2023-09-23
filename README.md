@@ -15,7 +15,7 @@
 The objective is to create a web application capable of identifying ideal candidates for specific positions, employing Artificial Intelligence to assess the profile based on the Knowledge, Skills, and Attitudes (KSA) criteria necessary for the role.
 
 ## 🏁 Project
-**RecrutaTech** is an innovative online platform designed to assist companies in streamlining their candidate recruitment and selection process. Through a secure multi-factor login and
+**RecrutaTech** is an innovative web platform designed to assist companies in streamlining their candidate recruitment and selection process. Through a secure multi-factor login and
 authentication system, companies can easily input the desired job description.
 
 One of RecrutaTech's distinctive features is its ability to perform web scraping on various popular job platforms in Brazil. This means that the application automatically gathers
