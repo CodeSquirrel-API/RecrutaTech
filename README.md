@@ -49,9 +49,23 @@ The objective is to create a web application capable of identifying ideal candid
 
 ## Used Technologies
 
-- **DataBase:** PostgreSQL
-- **Back-end:** Java, SpringBoot
-- **Front-end:** HTML, CSS, TypeScript, VUE.js, Figma
-- **Artificial Intelligence:** Python
-- **Web Scraping:** Python, Beautiful Soup, Selenium
+- **DataBase:** <br> PostgreSQL
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+- **Back-end:** <br> Java, SpringBoot <br>
+      <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+- **Front-end:** <br>
+   HTML, CSS, TypeScript, VUE.js, Figma <br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+- **Artificial Intelligence:** <br> Python
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- **Web Scraping:** <br> Python, Beautiful Soup, Selenium
+    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+
 
