@@ -23,14 +23,14 @@ The objective is to create a web application capable of identifying ideal candid
 <img src="images/infografico.jpg">
 
 ## Contributors    
-| Name           | Position       | GitHub                                    |
-|----------------|--------------|-------------------------------------------|
-| Frederico Rabelo | Scrum Master | [fredrbo](https://github.com/fredrbo)    |
-| Ana Christina Silva | Product Owner | [AnaChristina](https://github.com/AnaChristina)    |
-| Lucas Rafael Andrade Barroso | Developer | [lucaszrafael](https://github.com/lucaszrafael)    |
-| Debora Faria | Developer | [deborafaria01](https://github.com/deborafaria01)    |
-| Carlos Henrique Benício Costa | Developer | [Carlos-Henrique39](https://github.com/Carlos-Henrique39)    |
-| Lucca Santiago Almeida| Developer | [LuccaSantiagoDev](https://github.com/LuccaSantiagoDev)    |
+| Name           | Position       | GitHub                                    | LinkedIn
+|----------------|--------------|-------------------------------------------|-------------------| 
+| Frederico Rabelo | Scrum Master | [fredrbo](https://github.com/fredrbo)    | [Frederico Rabelo](https://www.linkedin.com/in/frederico-rabelo-2abab018a/)
+| Ana Christina Silva | Product Owner | [AnaChristina](https://github.com/AnaChristina)    | [Ana Christina](https://www.linkedin.com/in/ana-christina-silva/)
+| Lucas Rafael Andrade Barroso | Developer | [lucaszrafael](https://github.com/lucaszrafael)    | [Lucas Rafael](https://www.linkedin.com/in/lucas-rafael-andrade-barroso/)
+| Debora Faria | Developer | [deborafaria01](https://github.com/deborafaria01)    | [Debora Faria](https://www.linkedin.com/in/debora-faria2109/)
+| Carlos Henrique Benício Costa | Developer | [Carlos-Henrique39](https://github.com/Carlos-Henrique39)    | [Carlos Henrique]()
+| Lucca Santiago Almeida| Developer | [LuccaSantiagoDev](https://github.com/LuccaSantiagoDev)    | [Lucca Santiago](https://www.linkedin.com/in/lucca-santiago-5244bb1a1/)
 
 ## Project Repositories
 
