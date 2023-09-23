@@ -15,20 +15,20 @@
 The objective is to create a web application capable of identifying ideal candidates for specific positions, employing Artificial Intelligence to assess the profile based on the Knowledge, Skills, and Attitudes (KSA) criteria necessary for the role.
 
 ## 🏁 Project
-**RecrutaTech** is an innovative web platform designed to assist companies in streamlining their candidate recruitment and selection process. Through a secure multi-factor login and
-authentication system, companies can easily input the desired job description.
 
-One of RecrutaTech's distinctive features is its ability to perform web scraping on various popular job platforms in Brazil. This means that the application automatically gathers
-relevant information about candidates from these sources, saving time and effort for the recruitment team.
+**RecrutaTech** is an innovative web platform that offers essential features to streamline candidate recruitment. Its key features include:
 
-Furthermore, RecrutaTech employs an advanced evaluation criterion based on KSA (Knowledge, Skills, and Attitudes). This allows candidates to be objectively classified and ranked based
-on their compatibility with the job profile in question. This screening process results in a list of candidates more aligned with the company's needs, saving time and resources.
+* **Secure Login:** With a secure login system and multi-factor authentication, we ensure the protection of your company's data.
 
-Another significant benefit is that companies receive email notifications as soon as the results of the selection process are available. This ensures that recruitment teams are always
-up-to-date and ready to proceed with the next steps of the hiring process.
+* **Simplified Job Descriptions:** Easily input and update desired job descriptions.
 
-In summary, RecrutaTech is a powerful online platform that simplifies recruitment and selection, saving time and resources, while also improving the quality of candidates reaching
-companies.
+* **Smart Web Scraping:** The platform performs web scraping on various popular job sources, saving time in gathering candidate information.
+
+* **KSA-Based Evaluation:** Using the Knowledge, Skills, and Attitudes (KSA) criteria, candidates are objectively ranked.
+
+* **Candidate Ranking:** Identify candidates most suited to the job profile, saving resources on screening.
+
+* **Email Notifications:** Receive email alerts as soon as selection process results are available.
 
 ## 📅 Planning
 
