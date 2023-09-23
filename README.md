@@ -27,8 +27,8 @@ on their compatibility with the job profile in question. This screening process 
 Another significant benefit is that companies receive email notifications as soon as the results of the selection process are available. This ensures that recruitment teams are always
 up-to-date and ready to proceed with the next steps of the hiring process.
 
-**In summary, RecrutaTech is a powerful online platform that simplifies recruitment and selection, saving time and resources, while also improving the quality of candidates reaching
-companies.**
+In summary, RecrutaTech is a powerful online platform that simplifies recruitment and selection, saving time and resources, while also improving the quality of candidates reaching
+companies.
 
 ## 📅 Planning
 
