@@ -4,10 +4,11 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## 📑 Table of Contents
 
-* [Sprint backlog](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-sprint-backlog)
+* [Sprint backlog](https://github.com/CodeSquirrel-API/RecrutaTech/docs/sprints-deliveries/sprint1/README.md#-sprint-backlog)
 * [Prototype](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-prototype)
 * [Codes](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-codes)
 * [Sprint Burndown](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-sprint-burndown)
+* https://github.com/CodeSquirrel-API/RecrutaTech#-challenge)
 
 ## 📝 Sprint Backlog
 
