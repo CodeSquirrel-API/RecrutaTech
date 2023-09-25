@@ -27,7 +27,7 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## 📉 Sprint Burndown
 
-![](link)
+![](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint1/Burndown-sprint-1.png)
 
 ## 💫 Implemented Funcionalities
 
