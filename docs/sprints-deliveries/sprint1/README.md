@@ -4,14 +4,14 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## 📑 Table of Contents
 
-* [Sprint backlog](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-sprint-backlog)
-* [Prototype](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-prototype)
-* [Codes](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-codes)
-* [Sprint Burndown](https://github.com/cluster-8/eFinance/blob/main/docs/sprints-deliveries/sprint1/README.md#-sprint-burndown)
+* [Sprint backlog](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-sprint-backlog)
+* [Prototype](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-prototype)
+* [Codes](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-codes)
+* [Sprint Burndown](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1/README.md#-sprint-burndown)
 
 ## 📝 Sprint Backlog
 
-[Access Backlog](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/Product-Backlog-v1.pdf)
+* [Backlog access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/Product-Backlog-v1.pdf)
 
 ## 🖥️ Prototype
 
