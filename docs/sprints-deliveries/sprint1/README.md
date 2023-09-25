@@ -29,3 +29,12 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ![](link)
 
+## 💫 Implemented Funcionalities
+
+Click on the link to view the video with the features:
+* KSA database
+* Web Scraping
+
+[Access here]()
+
+
