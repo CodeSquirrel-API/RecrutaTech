@@ -1,6 +1,7 @@
 # RecrutaTech
 
 ## 📑 Table of Content
+* [Presentation](https://github.com/CodeSquirrel-API/RecrutaTech#-presentation)
 * [Challenge](https://github.com/CodeSquirrel-API/RecrutaTech#-challenge)
 * [Project](https://github.com/CodeSquirrel-API/RecrutaTech#-project)
 * [Planning](https://github.com/CodeSquirrel-API/RecrutaTech#-planning)
@@ -103,6 +104,8 @@ Access the items delivered in each stage of project development:
 | __Lucas Rafael__ | *Developer* | [![](https://bit.ly/3f9Xo0P)](https://github.com/lucaszrafael)    | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lucas-rafael-andrade-barroso/)
 | __Lucca Almeida__ | *Developer* | [![](https://bit.ly/3f9Xo0P)](https://github.com/LuccaSantiagoDev)    | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lucca-santiago-5244bb1a1/)
 
+## 🖥️ Link Presentation
+[Presentation Sprint 1](https://youtu.be/4Lj5o7slv7M)
 
 
 
