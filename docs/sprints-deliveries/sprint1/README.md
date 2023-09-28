@@ -35,6 +35,6 @@ Click on the link to view the video with the features:
 * KSA database
 * Web Scraping
 
-[Access here]((https://youtu.be/4Lj5o7slv7M))
+[Access here](https://youtu.be/4Lj5o7slv7M)
 
 
