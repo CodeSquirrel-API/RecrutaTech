@@ -45,7 +45,8 @@ features:
 |   `Solution Fair`     | 12/12/2023              | 🚧           | 🔒               |
 
 ## 🗃️ MVP - Minimum Valueable Product
-  aqui a ultima imagem de todas as entregas. 
+  ![ MVP todas entregas](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/Sprint%204.png)
+  Este é o MVP de todas as entregas que serão feitas ao decorrer do desenvolvimento do projeto. 
 ## 🎁 Sprints Deliveries
 Access the items delivered in each stage of project development:
 
