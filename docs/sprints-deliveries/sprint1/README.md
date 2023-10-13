@@ -4,11 +4,11 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## 📝 Sprint Backlog
 
-* [Backlog access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint1/backlog-sprint-1.png)
+![Backlog-spritn1](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint1/backlog-sprint-1.png)
 
 ## MVP - Minimum Viable Product   
 ![ MVP Sprint 1](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/mvp-Sprint%201.png)
-
+Um dos requisitos críticos do projeto consistia na capacidade de gerar o CHA (Conhecimentos, Habilidades e Atitudes). Decidimos priorizar a entrega desse recurso durante a primeira sprint. Com essa funcionalidade, o usuário tem a capacidade de criar o CHA para qualquer profissão e nível de cargo, permitindo a aplicação manual desses critérios aos candidatos.
 
 ## 📃 Codes
 
