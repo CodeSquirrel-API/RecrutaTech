@@ -4,8 +4,7 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## 📝 Sprint Backlog
 
-* [Backlog access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/Product-Backlog-v1.pdf)
-
+* [Backlog access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint1/backlog-sprint-1.png)
 ## 🖥️ Prototype
 
 * [Figma Prototype access link](https://www.figma.com/proto/5QZUAPbahVMfZfRvnEVBPe/API-6-RecrutaTech?type=design&node-id=276-3&t=VdXPKaglrhw11UuY-1&scaling=min-zoom&page-id=0%3A29&mode=design)
