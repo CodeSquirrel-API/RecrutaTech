@@ -10,8 +10,6 @@ Below are all items produced during Sprint 1 as previously established through p
 ![ MVP Sprint 1](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/mvp-Sprint%201.png)
 
 
-* [Figma Prototype access link](https://www.figma.com/proto/5QZUAPbahVMfZfRvnEVBPe/API-6-RecrutaTech?type=design&node-id=276-3&t=VdXPKaglrhw11UuY-1&scaling=min-zoom&page-id=0%3A29&mode=design)
-
 ## 📃 Codes
 
 ### Frontend
