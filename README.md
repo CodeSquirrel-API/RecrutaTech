@@ -64,7 +64,13 @@ Access the items delivered in each stage of project development:
 * [Coming soon](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint4)
 
 ## 📃 Product Backlog
-* [PDF Document access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/product-backlog-6.pdf)
+
+* [ Product Backlog V 2.0](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/product-backlog-6.pdf)
+Alguns requisitos como: "Notificações de buscas inicializadas" e "Enviar e-mail para empresas ao finalizar processo de busca" foram removidos pelo cliente. 
+Já os requisitos: "Garantir um web scraping eficiente e tempo de resposta ágil", "Proteção de dados e buscas e informações" e "Caso de interrupções o sistema deve retornar as operações de web scraping" foram suspensas temporariamente por decisão da equipe devido a preocupações com a privacidade de dados. Isso aconteceu porque percebemos que o modo como estávamos coletando informações não estava de acordo com as regras de proteção de dados. Vamos manter o sistema inativo até encontrarmos uma maneira de fazer isso de forma que respeite todas as regras de privacidade e regulamentos em vigor. <br>
+
+clique aqui para verificar a primeira versão do product backlog 👇:
+* [PDF Document 1.0 accesslink](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/ProductBacklog.pdf)
 
 ## 💻 Prototype
 * [Figma Prototype access link](https://www.figma.com/proto/5QZUAPbahVMfZfRvnEVBPe/API-6-RecrutaTech?type=design&node-id=276-3&t=VdXPKaglrhw11UuY-1&scaling=min-zoom&page-id=0%3A29&mode=design)
