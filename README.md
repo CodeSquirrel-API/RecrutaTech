@@ -64,7 +64,7 @@ Access the items delivered in each stage of project development:
 * [Coming soon](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint4)
 
 ## 📃 Product Backlog
-* [PDF Document access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/Product-Backlog-v1.pdf)
+* [PDF Document access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/product-backlog-6.pdf)
 
 ## 💻 Prototype
 * [Figma Prototype access link](https://www.figma.com/proto/5QZUAPbahVMfZfRvnEVBPe/API-6-RecrutaTech?type=design&node-id=276-3&t=VdXPKaglrhw11UuY-1&scaling=min-zoom&page-id=0%3A29&mode=design)
