@@ -44,7 +44,7 @@ features:
 |   `Sprint 4`          | 11/06/2023 a 11/26/2023 | 🚧           | 🔒               |
 |   `Solution Fair`     | 12/12/2023              | 🚧           | 🔒               |
 
-## 🗃️ MVP - Minimum Valueable Product
+## 🗃️ MVP - Minimum Viable Product
   ![ MVP todas entregas](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/Sprint%204.png)
   Este é o MVP de todas as entregas que serão feitas ao decorrer do desenvolvimento do projeto. 
 ## 🎁 Sprints Deliveries
