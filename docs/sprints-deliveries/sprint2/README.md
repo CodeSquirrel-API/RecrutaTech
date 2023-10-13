@@ -10,8 +10,7 @@ explicar as mudanças do backlog, ocasionando em mudanças no backlog da sprint 
 
 ## MVP - Minimum Viable Product   
 ![ MVP Sprint 2](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/mvp-Sprint%202.png)
-explicar pq esta entrega está sendo menos importante que a entrega 3. 
-
+Ao analisar o MVP das entregas, é evidente que a sprint 2 não possui o mesmo grau de relevância em comparação à sprint 3. Devido às desafios enfrentados, incluindo questões relacionadas ao web scraping e a ocorrência de eventos estudantis, a sprint acabou se tornando mais curta do que o planejado, exigindo, assim, uma entrega com um nível de valor reduzido nesta etapa.
 
 ## 📃 Codes
 
