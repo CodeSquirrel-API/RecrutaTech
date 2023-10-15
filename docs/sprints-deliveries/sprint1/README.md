@@ -8,7 +8,7 @@ Below are all items produced during Sprint 1 as previously established through p
 
 ## MVP - Minimum Viable Product   
 ![ MVP Sprint 1](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/mvp-Sprint%201.png)
-Um dos requisitos críticos do projeto consistia na capacidade de gerar o CHA (Conhecimentos, Habilidades e Atitudes). Decidimos priorizar a entrega desse recurso durante a primeira sprint. Com essa funcionalidade, o usuário tem a capacidade de criar o CHA para qualquer profissão e nível de cargo, permitindo a aplicação manual desses critérios aos candidatos.
+One of the critical project requirements was the ability to generate the KSA (Knowledge, Skills, and Abilities). We decided to prioritize the delivery of this feature during the first sprint. With this functionality, the user has the ability to create the KSA for any profession and job level, enabling the manual application of these criteria to candidates.
 
 ## 📃 Codes
 
@@ -28,7 +28,7 @@ Um dos requisitos críticos do projeto consistia na capacidade de gerar o CHA (C
 ## 📉 Sprint Burndown
 
 ![](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint1/Burndown-sprint-1.png)
-Uma análise detalhada do gráfico de burndown revela que o início da sprint sofreu atrasos devido a uma combinação de fatores, incluindo a necessidade de realizar pesquisas extensivas em plataformas que possibilitassem a raspagem de dados (web scraping), a demora na obtenção de respostas do cliente e desafios significativos na implementação da API do ChatGPT.
+A detailed analysis of the burndown chart reveals that the start of the sprint experienced delays due to a combination of factors, including the need to conduct extensive research on platforms that enable data scraping (web scraping), delays in obtaining client responses, and significant challenges in implementing the ChatGPT API.
 
 ## 💫 Implemented Funcionalities
 
