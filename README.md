@@ -46,7 +46,7 @@ features:
 
 ## 🗃️ MVP - Minimum Viable Product
   ![ MVP todas entregas](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/Sprint%204.png)
-  Este é o MVP de todas as entregas que serão feitas ao decorrer do desenvolvimento do projeto. 
+This is the MVP of all the deliveries that will be made throughout the development of the project.
 ## 🎁 Sprints Deliveries
 Access the items delivered in each stage of project development:
 
@@ -66,10 +66,9 @@ Access the items delivered in each stage of project development:
 ## 📃 Product Backlog
 
 * ![ Product Backlog V 2.0](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/backlog-jpg.jpeg)
-Alguns requisitos como: "Notificações de buscas inicializadas" e "Enviar e-mail para empresas ao finalizar processo de busca" foram removidos pelo cliente. 
-Já os requisitos: "Garantir um web scraping eficiente e tempo de resposta ágil", "Proteção de dados e buscas e informações" e "Caso de interrupções o sistema deve retornar as operações de web scraping" foram suspensas temporariamente por decisão da equipe devido a preocupações com a privacidade de dados. Isso aconteceu porque percebemos que o modo como estávamos coletando informações não estava de acordo com as regras de proteção de dados. Vamos manter o sistema inativo até encontrarmos uma maneira de fazer isso de forma que respeite todas as regras de privacidade e regulamentos em vigor. <br>
+Some requirements, such as "Notifications for initiated searches" and "Sending emails to companies upon completing the search process," have been removed by the client. As for the requirements of "Ensuring efficient web scraping and responsive response times," "Data protection for searches and information," and "In the event of interruptions, the system should return web scraping operations," they have been temporarily suspended by the team's decision due to data privacy concerns. This occurred because we realized that the way we were collecting information was not in line with data protection rules. We will keep the system inactive until we find a way to do this that respects all privacy rules and regulations in effect. <br>
 
-clique aqui para verificar a primeira versão do product backlog 👇:
+ Click here to check the first version of the product backlog👇:
 * [PDF Document 1.0 accesslink](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/ProductBacklog.pdf)
 * [Por prioridade](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/prioridade%20geral.pdf)
 
