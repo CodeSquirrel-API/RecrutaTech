@@ -26,6 +26,6 @@ When analyzing the MVP of the deliveries, it is evident that Sprint 2 does not h
 
 ## 📉 Sprint Burndown
 
-![burndown](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint2/burndown-sprint%202.png)
+![burndown](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint2/burndown-sprint-2.png)
 
 The current sprint faced significant challenges, with a delayed start due to holidays, events, and school exams, which postponed the commencement of planned activities. Furthermore, a change in the start of the backlog further impacted the schedule. Strategies are being implemented to optimize progress, including reevaluation of estimates, time management, and task prioritization. It was decided to postpone tasks related to authentication and research on machine learning to the next sprint.
