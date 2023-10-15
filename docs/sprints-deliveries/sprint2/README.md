@@ -25,8 +25,7 @@ Ao analisar o MVP das entregas, é evidente que a sprint 2 não possui o mesmo g
 * [Repository](https://github.com/CodeSquirrel-API/RecrutaTech-BackEnd)
 
 ## 📉 Sprint Burndown
-explicar burndown. 
 
-![burndown]()
+![burndown](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint2/burndown-sprint%202.png)
 
 
