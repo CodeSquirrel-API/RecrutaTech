@@ -70,7 +70,7 @@ Some requirements, such as "Notifications for initiated searches" and "Sending e
 
  Click here to check the first version of the product backlog👇:
 * [PDF Document 1.0 accesslink](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/ProductBacklog.pdf)
-* [Por prioridade](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/prioridade%20geral.pdf)
+* [In Order Of Priority](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/prioridade%20geral.pdf)
 
 ## 💻 Prototype
 * [Figma Prototype access link](https://www.figma.com/proto/5QZUAPbahVMfZfRvnEVBPe/API-6-RecrutaTech?type=design&node-id=276-3&t=VdXPKaglrhw11UuY-1&scaling=min-zoom&page-id=0%3A29&mode=design)
