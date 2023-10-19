@@ -10,3 +10,6 @@
 [submodule "DataScraper"]
 	path = DataScraper
 	url = https://github.com/CodeSquirrel-API/Scraping
+[submodule "Artificial Intelligence"]
+	path = Artificial Intelligence
+	url = https://github.com/CodeSquirrel-API/Recrutatech-IA
