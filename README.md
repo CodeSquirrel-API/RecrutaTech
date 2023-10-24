@@ -1,11 +1,10 @@
 # RecrutaTech
 
 ## 📑 Table of Content
-* [Presentation](https://github.com/CodeSquirrel-API/RecrutaTech#-presentation)
 * [Challenge](https://github.com/CodeSquirrel-API/RecrutaTech#-challenge)
 * [Project](https://github.com/CodeSquirrel-API/RecrutaTech#-project)
 * [Planning](https://github.com/CodeSquirrel-API/RecrutaTech#-planning)
-* [MVP](https://github.com/CodeSquirrel-API/RecrutaTech#-mvp-minimum-viable-product)
+* [MVP](https://github.com/CodeSquirrel-API/RecrutaTech#-mvp)
 * [Sprints Deliveries](https://github.com/CodeSquirrel-API/RecrutaTech#-sprints-deliveries)
 * [Product Backlog](https://github.com/CodeSquirrel-API/RecrutaTech#-product-backlog)
 * [Prototype](https://github.com/CodeSquirrel-API/RecrutaTech#-prototype)
@@ -44,9 +43,11 @@ features:
 |   `Sprint 4`          | 11/06/2023 a 11/26/2023 | 🚧           | 🔒               |
 |   `Solution Fair`     | 12/12/2023              | 🚧           | 🔒               |
 
-## 🗃️ MVP - Minimum Viable Product
-  ![ MVP todas entregas](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/Sprint%204.png)
-This is the MVP of all the deliveries that will be made throughout the development of the project.
+## 🗃️ MVP
+This is the MVP - Minimum Viable Product of all the deliveries that will be made throughout the development of the project.
+
+<img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/Sprint%204.png" width="60%">
+
 
 ## 🎁 Sprints Deliveries
 Access the items delivered in each stage of project development:
@@ -54,6 +55,7 @@ Access the items delivered in each stage of project development:
 ### Sprint 1
 * [KSA database](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1)
 * [Web Scraping](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1)
+* [Presentation video](https://youtu.be/4Lj5o7slv7M)
 
 ### Sprint 2
 * [Authentication](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint2)
@@ -66,12 +68,17 @@ Access the items delivered in each stage of project development:
 
 ## 📃 Product Backlog
 
-* ![ Product Backlog V 2.0](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/backlog-jpg.jpeg)
-Some requirements, such as "Notifications for initiated searches" and "Sending emails to companies upon completing the search process," have been removed by the client. As for the requirements of "Ensuring efficient web scraping and responsive response times," "Data protection for searches and information," and "In the event of interruptions, the system should return web scraping operations," they have been temporarily suspended by the team's decision due to data privacy concerns. This occurred because we realized that the way we were collecting information was not in line with data protection rules. We will keep the system inactive until we find a way to do this that respects all privacy rules and regulations in effect. <br>
+![ Product Backlog V 2.0](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/backlog-jpg.jpeg)
+  
+Some requirements, such as "Notifications for initiated searches" and "Sending emails to companies upon completing the search process," have been removed by the client. As for the
+requirements of "Ensuring efficient web scraping and responsive response times," "Data protection for searches and information," and "In the event of interruptions, the system should
+return web scraping operations," they have been temporarily suspended by the team's decision due to data privacy concerns. This occurred because we realized that the way we were
+collecting information was not in line with data protection rules. We will keep the system inactive until we find a way to do this that respects all privacy rules and regulations in
+effect.
 
- Click here to check the first version of the product backlog👇:
-* [PDF Document 1.0 accesslink](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/ProductBacklog.pdf)
-* [In Order Of Priority](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/prioridade%20geral.pdf)
+Click here to check the first version of the product backlog:
+* [PDF Document v1.0 access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/ProductBacklog.pdf)
+* [In Order Of Priority access link](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/prioridade%20geral.pdf)
 
 ## 💻 Prototype
 * [Figma Prototype access link](https://www.figma.com/proto/5QZUAPbahVMfZfRvnEVBPe/API-6-RecrutaTech?type=design&node-id=276-3&t=VdXPKaglrhw11UuY-1&scaling=min-zoom&page-id=0%3A29&mode=design)
@@ -114,9 +121,3 @@ Some requirements, such as "Notifications for initiated searches" and "Sending e
 | __Frederico Rabelo__ | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/fredrbo)    | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/frederico-rabelo-2abab018a/)
 | __Lucas Rafael__ | *Developer* | [![](https://bit.ly/3f9Xo0P)](https://github.com/lucaszrafael)    | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lucas-rafael-andrade-barroso/)
 | __Lucca Almeida__ | *Developer* | [![](https://bit.ly/3f9Xo0P)](https://github.com/LuccaSantiagoDev)    | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lucca-santiago-5244bb1a1/)
-
-## 🖥️ Link Presentation
-[Presentation Sprint 1](https://youtu.be/4Lj5o7slv7M)
-
-
-
