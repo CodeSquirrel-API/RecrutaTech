@@ -4,7 +4,7 @@
 * [Challenge](https://github.com/CodeSquirrel-API/RecrutaTech#-challenge)
 * [Project](https://github.com/CodeSquirrel-API/RecrutaTech#-project)
 * [Planning](https://github.com/CodeSquirrel-API/RecrutaTech#-planning)
-* [MVP](https://github.com/CodeSquirrel-API/RecrutaTech#-mvp)
+* [MVP](https://github.com/CodeSquirrel-API/RecrutaTech#%EF%B8%8F-mvp)
 * [Sprints Deliveries](https://github.com/CodeSquirrel-API/RecrutaTech#-sprints-deliveries)
 * [Product Backlog](https://github.com/CodeSquirrel-API/RecrutaTech#-product-backlog)
 * [Prototype](https://github.com/CodeSquirrel-API/RecrutaTech#-prototype)
