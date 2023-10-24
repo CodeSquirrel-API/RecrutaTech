@@ -5,7 +5,7 @@
 * [Challenge](https://github.com/CodeSquirrel-API/RecrutaTech#-challenge)
 * [Project](https://github.com/CodeSquirrel-API/RecrutaTech#-project)
 * [Planning](https://github.com/CodeSquirrel-API/RecrutaTech#-planning)
-* [MVP]().
+* [MVP](https://github.com/CodeSquirrel-API/RecrutaTech#-mvp-minimum-viable-product)
 * [Sprints Deliveries](https://github.com/CodeSquirrel-API/RecrutaTech#-sprints-deliveries)
 * [Product Backlog](https://github.com/CodeSquirrel-API/RecrutaTech#-product-backlog)
 * [Prototype](https://github.com/CodeSquirrel-API/RecrutaTech#-prototype)
@@ -47,6 +47,7 @@ features:
 ## 🗃️ MVP - Minimum Viable Product
   ![ MVP todas entregas](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/Sprint%204.png)
 This is the MVP of all the deliveries that will be made throughout the development of the project.
+
 ## 🎁 Sprints Deliveries
 Access the items delivered in each stage of project development:
 
