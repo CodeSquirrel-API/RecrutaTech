@@ -39,7 +39,7 @@ features:
 |   `Kik-off`           | 08/21/2023 a 08/28/2023 | ✅           | 🚩                |
 |   `Sprint 1`          | 09/04/2023 a 09/24/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1)       |
 |   `Sprint 2`          | 09/25/2023 a 10/15/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint2)  |    
-|   `Sprint 3`          | 10/16/2023 a 11/05/2023 | 🚧           | 🔒               |
+|   `Sprint 3`          | 10/16/2023 a 11/05/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint3)               |
 |   `Sprint 4`          | 11/06/2023 a 11/26/2023 | 🚧           | 🔒               |
 |   `Solution Fair`     | 12/12/2023              | 🚧           | 🔒               |
 
