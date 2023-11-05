@@ -60,7 +60,7 @@ Access the items delivered in each stage of project development:
 * [Authentication](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint2)
 
 ### Sprint 3
-* [Coming soon](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint3)
+* [Search for candidates for manual application of the KSA](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint3)
 
 ### Sprint 4
 * [Coming soon](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint4)
