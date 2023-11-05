@@ -25,6 +25,7 @@ explicar MVP da sprint 3
 
 ## 📉 Sprint Burndown
 
-![burndown]()
+![burndown](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint3/burndown-sprint-3.png)
+
 
 explicar burndown;
