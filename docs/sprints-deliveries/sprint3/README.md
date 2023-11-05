@@ -2,7 +2,7 @@
 
 ## 📃 Product Backlog
 
-- [Click to view Backlog v2.0"](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/product-backlog-6.pdf) <br>
+- [Click to view Backlog v2.0](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/product-backlog-6.pdf) <br>
 
 ## 📝 Sprint Backlog
 
