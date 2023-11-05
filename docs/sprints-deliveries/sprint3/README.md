@@ -29,9 +29,13 @@ Furthermore, in this sprint, we initiated the development of our machine learnin
 
 * [Repository](https://github.com/CodeSquirrel-API/RecrutaTech-BackEnd)
 
+#### Machine Learning
+
+* [Repository](https://github.com/CodeSquirrel-API/Recrutatech-IA)
+
 ## 📉 Sprint Burndown
 
 ![burndown](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint3/burndown-sprint-3.png)
 
-
+During the execution of sprint 3, it was observed that some tasks would be completed earlier than expected, as the team demonstrated better performance than in previous deliveries. Therefore, we decided to intentionally add some bugs and tasks that would only be started in Sprint 4. Even with this adaptation, we were able to maintain a steady pace of work and, as a result, we achieved our goals. This demonstrates the team's efficiency in adapting to circumstances and maintaining the project's progress in a smooth manner.
 
