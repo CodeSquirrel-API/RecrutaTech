@@ -15,9 +15,17 @@
 In this sprint, we delivered a new feature that allows users to search for candidates in our database based on their profession and level of expertise. Users can now also manually assess the skills (Knowledge, Skills, and Attitudes - KSA) of each candidate by reviewing their resumes.
 Furthermore, in this sprint, we initiated the development of our machine learning solution.
 
+
 <p align="center">
   <img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint3/mvp-Sprint%203.png" alt="MVP Sprint 3" width="65%">
 </p>
+
+The development of artificial intelligence has been initiated. Currently, it is only applying the Regression Decision Tree technique, and the top 10 candidates with the highest scores are already listed. However, it will be improved in the next release.
+
+<p align="center">
+  <img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint3/result-ia.jpeg" alt="MVP Sprint 3" width="65%">
+</p>
+
 
 ## 📃 Codes
 
