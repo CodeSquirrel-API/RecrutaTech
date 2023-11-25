@@ -8,7 +8,7 @@
 ## 📝 Sprint Backlog
 
 <p align="center">
-<img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/backlog-sprint-4.png">
+<img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/backlog-sprint-04.png">
 </p>
 
 ## 📌 MVP - Minimum Viable Product 
