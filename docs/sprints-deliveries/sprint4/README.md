@@ -8,7 +8,7 @@
 ## 📝 Sprint Backlog
 
 <p align="center">
-<img src="">
+<img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/backlog-sprint-4.png">
 </p>
 
 ## 📌 MVP - Minimum Viable Product 
@@ -18,11 +18,6 @@ Nesta sprint, o foco foi melhorias na inteligência artificial e implementação
 <p align="center">
   <img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/mvp-Sprint%204.png" alt="MVP Sprint 3" width="65%">
 </p>
-
-<p align="center">
-  <img src="" width="65%">
-</p>
-
 
 ## 📃 Codes
 
@@ -42,5 +37,5 @@ Nesta sprint, o foco foi melhorias na inteligência artificial e implementação
 
 ![burndown]()
 
-During the execution of sprint 3, it was observed that some tasks would be completed earlier than expected, as the team demonstrated better performance than in previous deliveries. Therefore, we decided to intentionally add some bugs and tasks that would only be started in Sprint 4. Even with this adaptation, we were able to maintain a steady pace of work and, as a result, we achieved our goals. This demonstrates the team's efficiency in adapting to circumstances and maintaining the project's progress in a smooth manner.
+explicar grafico burndown
 
