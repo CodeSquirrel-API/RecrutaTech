@@ -13,7 +13,7 @@
 
 ## 📌 MVP - Minimum Viable Product 
 
-Nesta sprint, o foco foi melhorias na inteligência artificial e implementação na aplicação. Classificando os candidatos mais qualificados na profissão desejada. O usuário poderá verificar os candidatos e obter contatos como e-mail ou linkedin do candidato. 
+In the final stage of the project, we focused our efforts on improving artificial intelligence and integrating it with the application. Our AI can now classify candidates more accurately, highlighting the most qualified individuals for each specific profession. Additionally, users have the convenience of reviewing candidate information, including their contact details such as email or LinkedIn profile.
 
 <p align="center">
   <img src="https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/images/mvp-Sprint%204.png" alt="MVP Sprint 3" width="65%">
