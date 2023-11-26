@@ -40,7 +40,7 @@ features:
 |   `Sprint 1`          | 09/04/2023 a 09/24/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint1)       |
 |   `Sprint 2`          | 09/25/2023 a 10/15/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint2)  |    
 |   `Sprint 3`          | 10/16/2023 a 11/05/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint3)               |
-|   `Sprint 4`          | 11/06/2023 a 11/26/2023 | 🚧           | 🔒               |
+|   `Sprint 4`          | 11/06/2023 a 11/26/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint4)             |
 |   `Solution Fair`     | 12/12/2023              | 🚧           | 🔒               |
 
 ## 🗃️ MVP
@@ -63,7 +63,7 @@ Access the items delivered in each stage of project development:
 * [Search for candidates for manual application of the KSA](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint3)
 
 ### Sprint 4
-* [Coming soon](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint4)
+* [Candidate ranking through AI](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint4)
 
 ## 📃 Product Backlog
 
@@ -86,6 +86,7 @@ Click here to check the first version of the product backlog:
 * [Frontend Code access link](https://github.com/CodeSquirrel-API/RecrutaTech-FrontEnd)
 * [Backend Code access link](https://github.com/CodeSquirrel-API/RecrutaTech-BackEnd)
 * [Web Scraping Code access link](https://github.com/CodeSquirrel-API/Scraping)
+* [A.I Code access link](https://github.com/CodeSquirrel-API/Recrutatech-IA)
 
 ## 🛠 Technologies
 
