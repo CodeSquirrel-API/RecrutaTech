@@ -41,7 +41,7 @@ features:
 |   `Sprint 2`          | 09/25/2023 a 10/15/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint2)  |    
 |   `Sprint 3`          | 10/16/2023 a 11/05/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint3)               |
 |   `Sprint 4`          | 11/06/2023 a 11/26/2023 | ✅           | [🔗 Click here](https://github.com/CodeSquirrel-API/RecrutaTech/tree/main/docs/sprints-deliveries/sprint4)             |
-|   `Solution Fair`     | 12/12/2023              | 🚧           | 🔒               |
+|   `Solution Fair`     | 12/12/2023              | 📎        |   👨‍💻 Feira de Soluções FATEC-SJC horário: á definir.        |
 
 ## 🗃️ MVP
 This is the MVP - Minimum Viable Product of all the deliveries that will be made throughout the development of the project.
