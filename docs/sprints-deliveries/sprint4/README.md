@@ -35,7 +35,7 @@ In the final stage of the project, we focused our efforts on improving artificia
 
 ## 📉 Sprint Burndown
 
-![burndown]()
+![burndown](https://github.com/CodeSquirrel-API/RecrutaTech/blob/main/docs/sprints-deliveries/sprint3/burndown-sprint-4.png)
 
-explicar grafico burndown
 
+As the burndown chart shows, we completed the sprint right at the end of the sprint, due to minimal activity at the beginning. Despite the rush, all tasks were completed.
